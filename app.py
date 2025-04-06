@@ -113,3 +113,4 @@ fig_rsi.update_layout(
     yaxis_title="RSI"
 )
 st.plotly_chart(fig_rsi, use_container_width=True)
+
